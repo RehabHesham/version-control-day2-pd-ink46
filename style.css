@@ -33,3 +33,13 @@ nav ul {
   margin-top: 20px;
 }
 
+.item{
+    margin: 10px 0;
+    background-color: aquamarine;
+}
+#contact-form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
