@@ -43,3 +43,13 @@ nav ul {
     width: 300px;
     margin: 0 auto;
 }
+#account-management{
+    background-color: #c0c0c0;
+    padding: 15px;
+    margin-top: 20px;
+}
+#activity{
+    background-color: #b0b0b0;
+    padding: 15px;
+    margin-top: 20px;
+}
