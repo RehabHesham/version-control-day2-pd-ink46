@@ -20,3 +20,9 @@ nav ul{
     display: flex;
     justify-content: center;
 }
+#contact-form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
